@@ -1,0 +1,503 @@
+2024-07-28 22:32:33,838 - DEBUG - Using selector: KqueueSelector
+2024-07-28 22:32:33,886 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-28 22:32:33,886 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 22:33:12,051 - DEBUG - Using selector: KqueueSelector
+2024-07-28 22:33:12,245 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-28 22:33:12,245 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 22:33:50,218 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/itzikbena19@gmail.com HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,222 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,229 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,233 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,238 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,242 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,248 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,251 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,257 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,260 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,266 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,270 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,276 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,279 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,286 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,289 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,294 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,297 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,303 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:50,306 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:50] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,328 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,331 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,337 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,342 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,348 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,353 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,360 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,364 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,370 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,373 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,378 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,382 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,388 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,392 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,397 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,401 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,406 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,409 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,414 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:51,417 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:51] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,441 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,447 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,455 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,459 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,465 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,469 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,475 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,479 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,485 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,488 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,494 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,497 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,503 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,507 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,513 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,517 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,524 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,527 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,532 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:33:56,534 - INFO - 127.0.0.1 - - [28/Jul/2024 22:33:56] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,559 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,563 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,567 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,570 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,573 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,576 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,580 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,584 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,589 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,593 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,598 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,601 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,603 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,606 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,608 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,611 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,613 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,615 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,618 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:34:26,620 - INFO - 127.0.0.1 - - [28/Jul/2024 22:34:26] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:13,395 - DEBUG - Using selector: KqueueSelector
+2024-07-28 22:38:13,528 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-28 22:38:13,528 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-28 22:38:22,461 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/asd HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,466 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,472 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,476 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,482 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,486 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,492 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,495 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,500 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,503 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,509 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,512 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,518 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,521 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,527 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,530 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,535 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,538 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,543 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:22,545 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:22] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,572 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,576 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,582 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,585 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,591 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,595 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,601 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,605 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,610 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,614 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,619 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,622 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,628 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,631 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,637 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,640 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,646 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,649 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,655 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:23,658 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:23] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,680 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,683 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,689 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,693 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,699 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,703 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,709 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,713 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,718 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,722 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,728 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,731 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,736 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,740 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,745 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,749 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,754 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,757 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,762 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:28,766 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:28] "[32mGET /google/authorize HTTP/1.1[0m" 302 -
+2024-07-28 22:38:46,492 - DEBUG - Generated new state bVkTXao8FbVLUZivmY9dDTiIRBxAZx.
+2024-07-28 22:38:46,493 - INFO - 127.0.0.1 - - [28/Jul/2024 22:38:46] "[32mGET /authorize HTTP/1.1[0m" 302 -
+2024-07-29 09:59:15,201 - DEBUG - Using selector: KqueueSelector
+2024-07-29 09:59:15,258 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-29 09:59:15,258 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-29 09:59:41,170 - DEBUG - Generated new state wsMeLKc7T1H62wcScnOk9Q7mUkirKK.
+2024-07-29 09:59:41,173 - INFO - 127.0.0.1 - - [29/Jul/2024 09:59:41] "[32mGET /google/askdmaklsd.com HTTP/1.1[0m" 302 -
+2024-07-29 09:59:48,047 - DEBUG - Encoding `client_id` "1095183760459-3n94mcg2avctl9eejtfpgdte4vtorl66.apps.googleusercontent.com" with `client_secret` as Basic auth credentials.
+2024-07-29 09:59:48,048 - DEBUG - Requesting url https://oauth2.googleapis.com/token using method POST.
+2024-07-29 09:59:48,048 - DEBUG - Supplying headers {'Accept': 'application/json', 'Content-Type': 'application/x-www-form-urlencoded'} and data {'grant_type': 'authorization_code', 'code': '4/0AcvDMrDHi5mCc7EfPmuR43JRgatOKP7uZ8DOPb8LyDSu9bbhfMvv3inAzAVexCf0JlRAVw', 'redirect_uri': 'https://127.0.0.1:4000/oauth2callback'}
+2024-07-29 09:59:48,048 - DEBUG - Passing through key word arguments {'timeout': None, 'auth': <requests.auth.HTTPBasicAuth object at 0x103542930>, 'verify': None, 'proxies': None, 'cert': None}.
+2024-07-29 09:59:48,239 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 09:59:48,640 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 09:59:48,641 - DEBUG - Request to fetch token completed with status 200.
+2024-07-29 09:59:48,641 - DEBUG - Request url was https://oauth2.googleapis.com/token
+2024-07-29 09:59:48,641 - DEBUG - Request headers were {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '171', 'Authorization': 'Basic MTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbTpHT0NTUFgtTHowX1gwbzJ0cV9XR0FnenU1cGUyUDRQbHNIMw=='}
+2024-07-29 09:59:48,641 - DEBUG - Request body was grant_type=authorization_code&code=4%2F0AcvDMrDHi5mCc7EfPmuR43JRgatOKP7uZ8DOPb8LyDSu9bbhfMvv3inAzAVexCf0JlRAVw&redirect_uri=https%3A%2F%2F127.0.0.1%3A4000%2Foauth2callback
+2024-07-29 09:59:48,641 - DEBUG - Response headers were {'Date': 'Mon, 29 Jul 2024 06:59:48 GMT', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'Pragma': 'no-cache', 'Content-Type': 'application/json; charset=utf-8', 'Vary': 'Origin, X-Origin, Referer', 'Content-Encoding': 'gzip', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'} and content {
+  "access_token": "ya29.a0AXooCguu5CUGlKom45FeneS5039Q91cC5-Egt1Bes7llqg7s87Mm5RmSdhLfYwVBgBg1nAPeQwhDIYfXk7tp9qzNI7jHzByGLzsrpBT7LwSGVk3C1AWfU43xI7viBvz4zy7v5G45d-r3NCEb9TRz4gsjruFcb81FUmtwaCgYKATcSARISFQHGX2MiBT4DSHwjd25qqovfW3dj2g0171",
+  "expires_in": 3599,
+  "refresh_token": "1//03ted6VDDxZIaCgYIARAAGAMSNwF-L9Ir-W8nbVhvl7BeFBTtRmzkYI39FtPC7HXdJmdELKgo_pc9N60-71XTCAIeU-Yc5hFEhDU",
+  "scope": "https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/gmail.readonly openid",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImUyNmQ5MTdiMWZlOGRlMTMzODJhYTdjYzlhMWQ2ZTkzMjYyZjMzZTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk1MTgzNzYwNDU5LTNuOTRtY2cyYXZjdGw5ZWVqdGZwZ2R0ZTR2dG9ybDY2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMjM0MjYxNDIxMDM0OTgxNTU0OSIsImVtYWlsIjoiaXR6aWtiZW5hMTlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJaSnc0T3R2eVN1cHh6VmtsZ2ZWOElRIiwibmFtZSI6Ikl0emlrIEJlbiBIYXJvc2giLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2twVTRRTjZBSm1YR3FyQ0NTNGotVk1VNDNQZGljWHk1cGRyWF82SjVJWUtDY19RPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ikl0emlrIiwiZmFtaWx5X25hbWUiOiJCZW4gSGFyb3NoIiwiaWF0IjoxNzIyMjM2Mzg4LCJleHAiOjE3MjIyMzk5ODh9.J94TkZNKeygGhIBnFo4S1pME5dxZbgbdYMCMDuM_fS20Ld6ZDgmCUoFGLd-vZhA93IuvePLZ4DwO2TjI3jpFCzZXjXD93JblOv0z52Ukp3S3Hxq0xx6qR_19ry-bnbQSKeuNsa0b0Qa5JyRRoWPhw1UYFE36ItlMF3gRKMdv7iqiBRTWmUrWcwC24PS1XI_If6kjfDWkkkwqy7iOISXHTd98M7uQXVVrd1QrvspFYvkQJXz9XXVu5MXS_sNv_EXp0tdPDs-dO4dASx_q6broAcDXB8fNfz-KzZOc_spBqmWKcH-vAWrzooYk8NMbC8mbhcGoI4yg24JgJJRMzgaV6g"
+}.
+2024-07-29 09:59:48,642 - DEBUG - Invoking 0 token response hooks.
+2024-07-29 09:59:48,642 - DEBUG - Obtained token {'access_token': 'ya29.a0AXooCguu5CUGlKom45FeneS5039Q91cC5-Egt1Bes7llqg7s87Mm5RmSdhLfYwVBgBg1nAPeQwhDIYfXk7tp9qzNI7jHzByGLzsrpBT7LwSGVk3C1AWfU43xI7viBvz4zy7v5G45d-r3NCEb9TRz4gsjruFcb81FUmtwaCgYKATcSARISFQHGX2MiBT4DSHwjd25qqovfW3dj2g0171', 'expires_in': 3599, 'refresh_token': '1//03ted6VDDxZIaCgYIARAAGAMSNwF-L9Ir-W8nbVhvl7BeFBTtRmzkYI39FtPC7HXdJmdELKgo_pc9N60-71XTCAIeU-Yc5hFEhDU', 'scope': ['https://www.googleapis.com/auth/userinfo.email', 'https://www.googleapis.com/auth/userinfo.profile', 'https://www.googleapis.com/auth/gmail.readonly', 'openid'], 'token_type': 'Bearer', 'id_token': 'eyJhbGciOiJSUzI1NiIsImtpZCI6ImUyNmQ5MTdiMWZlOGRlMTMzODJhYTdjYzlhMWQ2ZTkzMjYyZjMzZTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk1MTgzNzYwNDU5LTNuOTRtY2cyYXZjdGw5ZWVqdGZwZ2R0ZTR2dG9ybDY2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMjM0MjYxNDIxMDM0OTgxNTU0OSIsImVtYWlsIjoiaXR6aWtiZW5hMTlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJaSnc0T3R2eVN1cHh6VmtsZ2ZWOElRIiwibmFtZSI6Ikl0emlrIEJlbiBIYXJvc2giLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2twVTRRTjZBSm1YR3FyQ0NTNGotVk1VNDNQZGljWHk1cGRyWF82SjVJWUtDY19RPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ikl0emlrIiwiZmFtaWx5X25hbWUiOiJCZW4gSGFyb3NoIiwiaWF0IjoxNzIyMjM2Mzg4LCJleHAiOjE3MjIyMzk5ODh9.J94TkZNKeygGhIBnFo4S1pME5dxZbgbdYMCMDuM_fS20Ld6ZDgmCUoFGLd-vZhA93IuvePLZ4DwO2TjI3jpFCzZXjXD93JblOv0z52Ukp3S3Hxq0xx6qR_19ry-bnbQSKeuNsa0b0Qa5JyRRoWPhw1UYFE36ItlMF3gRKMdv7iqiBRTWmUrWcwC24PS1XI_If6kjfDWkkkwqy7iOISXHTd98M7uQXVVrd1QrvspFYvkQJXz9XXVu5MXS_sNv_EXp0tdPDs-dO4dASx_q6broAcDXB8fNfz-KzZOc_spBqmWKcH-vAWrzooYk8NMbC8mbhcGoI4yg24JgJJRMzgaV6g', 'expires_at': 1722239987.6422322}.
+2024-07-29 09:59:48,647 - INFO - 127.0.0.1 - - [29/Jul/2024 09:59:48] "[32mGET /oauth2callback?state=wsMeLKc7T1H62wcScnOk9Q7mUkirKK&code=4/0AcvDMrDHi5mCc7EfPmuR43JRgatOKP7uZ8DOPb8LyDSu9bbhfMvv3inAzAVexCf0JlRAVw&scope=email%20profile%20https://www.googleapis.com/auth/gmail.readonly%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 302 -
+2024-07-29 09:59:48,648 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 09:59:48,651 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 09:59:48,655 - INFO - 127.0.0.1 - - [29/Jul/2024 09:59:48] "GET /askdmaklsd.com HTTP/1.1" 200 -
+2024-07-29 09:59:48,951 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 09:59:48,956 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 09:59:48,960 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 09:59:48,964 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722236328&alt=json
+2024-07-29 09:59:49,552 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 10:00:15,207 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 10:00:15,371 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 10:00:15,686 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 10:00:15,690 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 10:00:15,691 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 10:00:15,693 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722236388&alt=json
+2024-07-29 10:00:16,109 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/190fd49c9e2e8cc0?alt=json
+2024-07-29 10:00:49,555 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 10:00:49,558 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 10:00:49,861 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 10:00:49,866 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 10:00:49,871 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 10:00:49,872 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722236415&alt=json
+2024-07-29 10:00:50,316 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 11:29:45,878 - DEBUG - Using selector: KqueueSelector
+2024-07-29 11:29:45,879 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 11:29:45,985 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-29 11:29:45,985 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-29 11:29:46,064 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 11:29:46,447 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 11:29:46,454 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 11:29:46,456 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 11:29:46,457 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722236449&alt=json
+2024-07-29 11:29:47,071 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:01:25,617 - DEBUG - Using selector: KqueueSelector
+2024-07-29 13:01:25,619 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:01:25,737 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://127.0.0.1:4000
+2024-07-29 13:01:25,737 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-29 13:01:25,811 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:01:26,182 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:01:26,187 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:01:26,191 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:01:26,194 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722241786&alt=json
+2024-07-29 13:01:26,823 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/190fde49b436365a?alt=json
+2024-07-29 13:01:27,112 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/190fdb4878f5d0b1?alt=json
+2024-07-29 13:02:27,468 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:02:27,471 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:02:27,835 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:02:27,841 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:02:27,844 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:02:27,845 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247286&alt=json
+2024-07-29 13:02:28,427 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:03:18,069 - INFO - 127.0.0.1 - - [29/Jul/2024 13:03:18] "GET /goolge/google.com HTTP/1.1" 200 -
+2024-07-29 13:03:28,435 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:03:28,442 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:03:28,804 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:03:28,810 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:03:28,822 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:03:28,825 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247347&alt=json
+2024-07-29 13:03:29,367 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:03:30,611 - DEBUG - Generated new state damRIMgRjRR8wK441QnwMOSBDlRCQP.
+2024-07-29 13:03:30,615 - INFO - 127.0.0.1 - - [29/Jul/2024 13:03:30] "[32mGET /google/google.com HTTP/1.1[0m" 302 -
+2024-07-29 13:03:40,760 - DEBUG - Encoding `client_id` "1095183760459-3n94mcg2avctl9eejtfpgdte4vtorl66.apps.googleusercontent.com" with `client_secret` as Basic auth credentials.
+2024-07-29 13:03:40,760 - DEBUG - Requesting url https://oauth2.googleapis.com/token using method POST.
+2024-07-29 13:03:40,760 - DEBUG - Supplying headers {'Accept': 'application/json', 'Content-Type': 'application/x-www-form-urlencoded'} and data {'grant_type': 'authorization_code', 'code': '4/0AcvDMrCEJrdDW6yL98KYn5DtO2l7l3UjS15C0BFGhyhnXiNSMq6ebmDU1fUg8NzrDAO0MA', 'redirect_uri': 'https://127.0.0.1:4000/oauth2callback'}
+2024-07-29 13:03:40,760 - DEBUG - Passing through key word arguments {'timeout': None, 'auth': <requests.auth.HTTPBasicAuth object at 0x10705f3e0>, 'verify': None, 'proxies': None, 'cert': None}.
+2024-07-29 13:03:40,765 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:03:41,163 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:03:41,164 - DEBUG - Request to fetch token completed with status 200.
+2024-07-29 13:03:41,164 - DEBUG - Request url was https://oauth2.googleapis.com/token
+2024-07-29 13:03:41,164 - DEBUG - Request headers were {'User-Agent': 'python-requests/2.32.3', 'Accept-Encoding': 'gzip, deflate', 'Accept': 'application/json', 'Connection': 'keep-alive', 'Content-Type': 'application/x-www-form-urlencoded', 'Content-Length': '171', 'Authorization': 'Basic MTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbTpHT0NTUFgtTHowX1gwbzJ0cV9XR0FnenU1cGUyUDRQbHNIMw=='}
+2024-07-29 13:03:41,165 - DEBUG - Request body was grant_type=authorization_code&code=4%2F0AcvDMrCEJrdDW6yL98KYn5DtO2l7l3UjS15C0BFGhyhnXiNSMq6ebmDU1fUg8NzrDAO0MA&redirect_uri=https%3A%2F%2F127.0.0.1%3A4000%2Foauth2callback
+2024-07-29 13:03:41,165 - DEBUG - Response headers were {'Pragma': 'no-cache', 'Date': 'Mon, 29 Jul 2024 10:03:41 GMT', 'Cache-Control': 'no-cache, no-store, max-age=0, must-revalidate', 'Expires': 'Mon, 01 Jan 1990 00:00:00 GMT', 'Content-Type': 'application/json; charset=utf-8', 'Vary': 'Origin, X-Origin, Referer', 'Content-Encoding': 'gzip', 'Server': 'scaffolding on HTTPServer2', 'X-XSS-Protection': '0', 'X-Frame-Options': 'SAMEORIGIN', 'X-Content-Type-Options': 'nosniff', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000', 'Transfer-Encoding': 'chunked'} and content {
+  "access_token": "ya29.a0AXooCguA48ZB8Q5yc-F-6H4WpURcTc_5ftwmVb2ti73lYEZYY7uNdJoB-UZ4SM9Qc21iukHgqAihbiowrgGtSsb4cL_wYOIT0pLQ6Hn9eYjCUMG1HwNszVj1zYcjrU0FTCQzLlyoGRG32DNcU46o1GSxZOHCgqfZH37waCgYKAZQSARISFQHGX2Mi143CFXmDbzjvqjTa8TZ9dg0171",
+  "expires_in": 3599,
+  "refresh_token": "1//0cTGlQS1c3l1LCgYIARAAGAwSNwF-L9IrvPVS6iSsh-o_X50bb0VFNEilrzzNqd8k7ndoCn5RtkD0lPWOjtP_EBsWf-KwOdAT24k",
+  "scope": "https://www.googleapis.com/auth/userinfo.profile https://www.googleapis.com/auth/gmail.readonly openid https://www.googleapis.com/auth/userinfo.email",
+  "token_type": "Bearer",
+  "id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImUyNmQ5MTdiMWZlOGRlMTMzODJhYTdjYzlhMWQ2ZTkzMjYyZjMzZTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk1MTgzNzYwNDU5LTNuOTRtY2cyYXZjdGw5ZWVqdGZwZ2R0ZTR2dG9ybDY2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMjM0MjYxNDIxMDM0OTgxNTU0OSIsImVtYWlsIjoiaXR6aWtiZW5hMTlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJhS3FURkdfTEVsdmd0Q3lEYU5QMXhRIiwibmFtZSI6Ikl0emlrIEJlbiBIYXJvc2giLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2twVTRRTjZBSm1YR3FyQ0NTNGotVk1VNDNQZGljWHk1cGRyWF82SjVJWUtDY19RPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ikl0emlrIiwiZmFtaWx5X25hbWUiOiJCZW4gSGFyb3NoIiwiaWF0IjoxNzIyMjQ3NDIxLCJleHAiOjE3MjIyNTEwMjF9.AuqkL_1sqD-qnwGIf0GcqUqWjpRRdEcvQkQ35fO1IAZR72pBtDnV1lH8lSEnJh0_JdGkgKh8lZD8XiFbaotiMITi_CW3XSid9fIkyi-lfS4u3S0a7j8cmn-F-B0NAgoeMOpX12ca14fmEPlac94JMq6FC6sbJuFi9QtTLQVusheBPTs6eML2pBExtim0jxLtfgIYbwtcuOiFO5McdAWYVaYLvJSmWzMaZ2YAqMXDFaL51wc_34oxy2r2BAqXnuwwBMxH_u0EOjjiPbpgzsEKSlgOAICTnLfVXZMW3IZ5glCq6vfF-3vyQ1g8QJdFmjv7R8q2mW_96VC-5TlX3PqdRA"
+}.
+2024-07-29 13:03:41,165 - DEBUG - Invoking 0 token response hooks.
+2024-07-29 13:03:41,165 - DEBUG - Obtained token {'access_token': 'ya29.a0AXooCguA48ZB8Q5yc-F-6H4WpURcTc_5ftwmVb2ti73lYEZYY7uNdJoB-UZ4SM9Qc21iukHgqAihbiowrgGtSsb4cL_wYOIT0pLQ6Hn9eYjCUMG1HwNszVj1zYcjrU0FTCQzLlyoGRG32DNcU46o1GSxZOHCgqfZH37waCgYKAZQSARISFQHGX2Mi143CFXmDbzjvqjTa8TZ9dg0171', 'expires_in': 3599, 'refresh_token': '1//0cTGlQS1c3l1LCgYIARAAGAwSNwF-L9IrvPVS6iSsh-o_X50bb0VFNEilrzzNqd8k7ndoCn5RtkD0lPWOjtP_EBsWf-KwOdAT24k', 'scope': ['https://www.googleapis.com/auth/userinfo.profile', 'https://www.googleapis.com/auth/gmail.readonly', 'openid', 'https://www.googleapis.com/auth/userinfo.email'], 'token_type': 'Bearer', 'id_token': 'eyJhbGciOiJSUzI1NiIsImtpZCI6ImUyNmQ5MTdiMWZlOGRlMTMzODJhYTdjYzlhMWQ2ZTkzMjYyZjMzZTIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJhenAiOiIxMDk1MTgzNzYwNDU5LTNuOTRtY2cyYXZjdGw5ZWVqdGZwZ2R0ZTR2dG9ybDY2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiMTA5NTE4Mzc2MDQ1OS0zbjk0bWNnMmF2Y3RsOWVlanRmcGdkdGU0dnRvcmw2Ni5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExMjM0MjYxNDIxMDM0OTgxNTU0OSIsImVtYWlsIjoiaXR6aWtiZW5hMTlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiJhS3FURkdfTEVsdmd0Q3lEYU5QMXhRIiwibmFtZSI6Ikl0emlrIEJlbiBIYXJvc2giLCJwaWN0dXJlIjoiaHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2EvQUNnOG9jS2twVTRRTjZBSm1YR3FyQ0NTNGotVk1VNDNQZGljWHk1cGRyWF82SjVJWUtDY19RPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6Ikl0emlrIiwiZmFtaWx5X25hbWUiOiJCZW4gSGFyb3NoIiwiaWF0IjoxNzIyMjQ3NDIxLCJleHAiOjE3MjIyNTEwMjF9.AuqkL_1sqD-qnwGIf0GcqUqWjpRRdEcvQkQ35fO1IAZR72pBtDnV1lH8lSEnJh0_JdGkgKh8lZD8XiFbaotiMITi_CW3XSid9fIkyi-lfS4u3S0a7j8cmn-F-B0NAgoeMOpX12ca14fmEPlac94JMq6FC6sbJuFi9QtTLQVusheBPTs6eML2pBExtim0jxLtfgIYbwtcuOiFO5McdAWYVaYLvJSmWzMaZ2YAqMXDFaL51wc_34oxy2r2BAqXnuwwBMxH_u0EOjjiPbpgzsEKSlgOAICTnLfVXZMW3IZ5glCq6vfF-3vyQ1g8QJdFmjv7R8q2mW_96VC-5TlX3PqdRA', 'expires_at': 1722251020.16565}.
+2024-07-29 13:03:41,169 - INFO - 127.0.0.1 - - [29/Jul/2024 13:03:41] "[32mGET /oauth2callback?state=damRIMgRjRR8wK441QnwMOSBDlRCQP&code=4/0AcvDMrCEJrdDW6yL98KYn5DtO2l7l3UjS15C0BFGhyhnXiNSMq6ebmDU1fUg8NzrDAO0MA&scope=email%20profile%20https://www.googleapis.com/auth/gmail.readonly%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1[0m" 302 -
+2024-07-29 13:03:41,170 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:03:41,175 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:03:41,181 - INFO - 127.0.0.1 - - [29/Jul/2024 13:03:41] "GET /google.com HTTP/1.1" 200 -
+2024-07-29 13:03:41,539 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:03:41,543 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:03:41,547 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:03:41,549 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247408&alt=json
+2024-07-29 13:03:42,154 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:04:29,376 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:04:29,479 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:04:29,849 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:04:29,855 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:04:29,858 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:04:29,860 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247421&alt=json
+2024-07-29 13:04:30,481 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:04:42,159 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:04:42,165 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:04:42,536 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:04:42,542 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:04:42,546 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:04:42,550 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247469&alt=json
+2024-07-29 13:04:43,074 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:05:30,488 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:05:30,494 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:05:30,874 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:05:30,878 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:05:30,881 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:05:30,885 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247482&alt=json
+2024-07-29 13:05:31,411 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:05:43,079 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:05:43,081 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:05:43,446 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:05:43,448 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:05:43,451 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:05:43,454 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247530&alt=json
+2024-07-29 13:05:43,985 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:06:31,417 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:06:31,423 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:06:31,766 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:06:31,770 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:06:31,773 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:06:31,775 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247543&alt=json
+2024-07-29 13:06:32,305 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages/190fdf41b69110f8?alt=json
+2024-07-29 13:06:43,989 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:06:43,992 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:06:44,342 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:06:44,346 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:06:44,349 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:06:44,352 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247591&alt=json
+2024-07-29 13:06:44,872 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:07:32,591 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:07:32,677 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:07:33,032 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:07:33,037 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:07:33,040 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:07:33,043 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247604&alt=json
+2024-07-29 13:07:33,663 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:07:44,875 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:07:44,878 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:07:45,237 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:07:45,241 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:07:45,244 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:07:45,247 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247653&alt=json
+2024-07-29 13:07:45,767 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:08:33,672 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:08:33,677 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:08:34,046 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:08:34,053 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:08:34,057 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:08:34,061 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247665&alt=json
+2024-07-29 13:08:34,586 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:08:45,772 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:08:45,775 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:08:46,129 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:08:46,134 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:08:46,138 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:08:46,142 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247714&alt=json
+2024-07-29 13:08:46,654 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:09:34,597 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:09:34,687 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:09:35,050 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:09:35,054 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:09:35,061 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:09:35,064 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247726&alt=json
+2024-07-29 13:09:35,594 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:09:46,660 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:09:46,664 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:09:47,006 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:09:47,011 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:09:47,019 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:09:47,022 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247775&alt=json
+2024-07-29 13:09:47,547 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:10:35,604 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:10:35,612 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:10:35,958 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:10:35,966 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:10:35,974 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:10:35,977 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247787&alt=json
+2024-07-29 13:10:36,562 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:10:47,552 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:10:47,556 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:10:47,917 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:10:47,920 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:10:47,925 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:10:47,928 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247835&alt=json
+2024-07-29 13:10:48,440 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:11:36,572 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:11:36,578 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:11:36,941 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:11:36,951 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:11:36,960 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:11:36,964 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247847&alt=json
+2024-07-29 13:11:37,466 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:11:48,444 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:11:48,448 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:11:48,815 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:11:48,819 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:11:48,826 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:11:48,830 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247896&alt=json
+2024-07-29 13:11:49,354 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:12:37,472 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:12:37,566 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:12:37,933 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:12:37,943 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:12:37,950 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:12:37,953 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247908&alt=json
+2024-07-29 13:12:38,607 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:12:49,356 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:12:49,359 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:12:49,844 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:12:49,847 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:12:49,851 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:12:49,854 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247957&alt=json
+2024-07-29 13:12:50,420 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:13:38,614 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:13:38,619 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:13:38,985 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:13:38,992 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:13:38,999 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:13:39,002 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722247969&alt=json
+2024-07-29 13:13:39,599 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:13:50,425 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:13:50,429 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:13:51,122 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:13:51,128 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:13:51,133 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:13:51,136 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248018&alt=json
+2024-07-29 13:13:51,647 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:14:39,606 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:14:39,611 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:14:39,955 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:14:39,962 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:14:39,969 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:14:39,972 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248031&alt=json
+2024-07-29 13:14:40,488 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:14:51,651 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:14:51,655 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:14:52,008 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:14:52,015 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:14:52,023 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:14:52,027 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248079&alt=json
+2024-07-29 13:14:52,554 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:15:40,495 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:15:40,583 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:15:40,898 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:15:40,903 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:15:40,908 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:15:40,911 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248092&alt=json
+2024-07-29 13:15:41,446 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:15:52,558 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:15:52,561 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:15:52,863 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:15:52,868 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:15:52,872 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:15:52,876 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248140&alt=json
+2024-07-29 13:15:53,721 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:16:41,454 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:16:41,464 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:16:41,748 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:16:41,756 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:16:41,763 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:16:41,767 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248152&alt=json
+2024-07-29 13:16:42,290 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:16:53,725 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:16:53,727 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:16:54,054 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:16:54,056 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:16:54,061 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:16:54,064 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248201&alt=json
+2024-07-29 13:16:54,502 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:17:42,297 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:17:42,383 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:17:42,729 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:17:42,735 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:17:42,743 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:17:42,747 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248214&alt=json
+2024-07-29 13:17:43,255 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:17:54,507 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:17:54,511 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:17:54,848 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:17:54,854 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:17:54,862 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:17:54,866 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248262&alt=json
+2024-07-29 13:17:55,297 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:18:43,263 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:18:43,268 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:18:43,619 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:18:43,624 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:18:43,629 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:18:43,632 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248274&alt=json
+2024-07-29 13:18:44,077 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:18:55,303 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:18:55,308 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:18:55,648 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:18:55,652 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:18:55,659 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:18:55,662 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248323&alt=json
+2024-07-29 13:18:56,092 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:19:44,084 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:19:44,190 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:19:44,507 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:19:44,512 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:19:44,521 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:19:44,527 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248335&alt=json
+2024-07-29 13:19:45,048 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:19:56,096 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:19:56,101 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:19:56,424 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:19:56,427 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:19:56,432 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:19:56,434 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248384&alt=json
+2024-07-29 13:19:56,864 - DEBUG - No new emails for itzikbena19@gmail.com
+2024-07-29 13:20:45,053 - DEBUG - Making request: POST https://oauth2.googleapis.com/token
+2024-07-29 13:20:45,055 - DEBUG - Starting new HTTPS connection (1): oauth2.googleapis.com:443
+2024-07-29 13:20:45,357 - DEBUG - https://oauth2.googleapis.com:443 "POST /token HTTP/11" 200 None
+2024-07-29 13:20:45,360 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-07-29 13:20:45,363 - DEBUG - Checking inbox for itzikbena19@gmail.com
+2024-07-29 13:20:45,364 - DEBUG - URL being requested: GET https://gmail.googleapis.com/gmail/v1/users/me/messages?q=after%3A1722248396&alt=json
+2024-07-29 13:20:45,802 - DEBUG - No new emails for itzikbena19@gmail.com
